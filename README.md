@@ -26,7 +26,7 @@ This project taught me the importance of a well-structured database and efficien
 Feel free to reach out if you have any questions or want to discuss database optimization strategies!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_psyliq-sql-databaseoptimization-activity-7202380549573771265-0TX9?utm_source=share&utm_medium=member_desktop
 
-Completed a comprehensive project on creating a Key Performance Indicator (KPI) dashboard for tracking employee metrics, including the total number of employees, using Excel!
+Employee Data Analytics: Completed a comprehensive project on creating a Key Performance Indicator (KPI) dashboard for tracking employee metrics, including the total number of employees, using Excel!
 📊 Project Overview:
 Managing and analyzing employee data is crucial for any organization. To streamline this process, I developed an Excel-based dashboard that provides a clear and concise view of our key metrics.
 Key Features of the Dashboard:
@@ -38,6 +38,7 @@ Why Excel?
 Excel is a powerful tool that offers flexibility and functionality for data analysis. By leveraging its features, I was able to create a dynamic and user-friendly dashboard that can be easily updated and maintained.
 Special Thanks:
 A huge thank you to Psyliq for their invaluable support and guidance throughout this project. Your expertise and insights were instrumental in bringing this project to fruition.
+
 Feel free to reach out if you're interested in learning more about this project or if you have any questions about creating your data-driven dashboards!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_excel-dataanalysis-kpidashboard-activity-7207832423022133249-PGsz?utm_source=share&utm_medium=member_desktop
 
@@ -66,4 +67,6 @@ Learnings and Thanks:
 This project has significantly enhanced my data analysis skills, particularly in leveraging the powerful features of Excel and Power BI for comprehensive HR analysis. I have gained valuable insights into workforce dynamics and the critical factors affecting employee satisfaction and retention.
 A huge thank you to hashtag#Psyliq for this incredible learning opportunity! Your support and resources have been instrumental in my growth as a data analyst.
 Looking forward to more exciting projects and continuous learning!
+
+Find Video Presentation of HR Data Analytics on this link below:
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_psyliq-psyliq-dataanalysis-activity-7208214391542976513-rUAe?utm_source=share&utm_medium=member_desktop
