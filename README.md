@@ -22,6 +22,7 @@ Implemented audit trails to track data changes.
 Performed regular maintenance to ensure ongoing performance.
 
 This project taught me the importance of a well-structured database and efficient query design. Thanks to hashtag#Psyliq for the inspiration and resources!
+
 Feel free to reach out if you have any questions or want to discuss database optimization strategies!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_psyliq-sql-databaseoptimization-activity-7202380549573771265-0TX9?utm_source=share&utm_medium=member_desktop
 
