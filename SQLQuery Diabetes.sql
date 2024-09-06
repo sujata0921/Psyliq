@@ -3,7 +3,9 @@ use Diabetes_Prediction
 
 select * from [Diabetes_prediction 1]
 
----1. Retrieve the Patient_id and ages of all patients.SELECT 
+---1. Retrieve the Patient_id and ages of all patients.
+
+SELECT 
     Patient_id, 
     DATEDIFF(YEAR, D_O_B, GETDATE()) - 
         CASE 
@@ -105,7 +107,9 @@ SELECT
 FROM 
     [Diabetes_prediction 1];
 
-----10. Calculate the age of patients in years (assuming the current date as of now).SELECT 
+----10. Calculate the age of patients in years (assuming the current date as of now).
+
+SELECT 
     Patient_id,
     EmployeeName,
     DATEDIFF(YEAR, D_O_B, GETDATE()) AS Age
@@ -189,7 +193,8 @@ GO -- End the batch after CREATE VIEW
 
 
 
-
+
+
 
 
 
