@@ -2,7 +2,7 @@
 Project on improving SQL databases for better data management and faster queries!
 
 Project Overview:
-I worked on making a SQL database for Diabetes Prediction more efficient and reliable. The main goals were to reduce duplicate data, ensure data accuracy, and speed up queries.
+I worked on making a SQL database for **Diabetes Prediction** more efficient and reliable. The main goals were to reduce duplicate data, ensure data accuracy, and speed up queries.
 Key Improvements:
 
 1) Data Integrity:
@@ -26,7 +26,9 @@ This project taught me the importance of a well-structured database and efficien
 Feel free to reach out if you have any questions or want to discuss database optimization strategies!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_psyliq-sql-databaseoptimization-activity-7202380549573771265-0TX9?utm_source=share&utm_medium=member_desktop
 
-Employee Data Analytics: Completed a comprehensive project on creating a Key Performance Indicator (KPI) dashboard for tracking employee metrics, including the total number of employees, using Excel!
+**Employee Data Analytics**: 
+
+Completed a comprehensive project on creating a Key Performance Indicator (KPI) dashboard for tracking employee metrics, including the total number of employees, using Excel!
 📊 Project Overview:
 Managing and analyzing employee data is crucial for any organization. To streamline this process, I developed an Excel-based dashboard that provides a clear and concise view of our key metrics.
 Key Features of the Dashboard:
@@ -42,7 +44,8 @@ A huge thank you to Psyliq for their invaluable support and guidance throughout 
 Feel free to reach out if you're interested in learning more about this project or if you have any questions about creating your data-driven dashboards!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_excel-dataanalysis-kpidashboard-activity-7207832423022133249-PGsz?utm_source=share&utm_medium=member_desktop
 
-Excited to share that I have completed my third project with hashtag#Psyliq, focusing on HR Data Analysis using Excel and Power BI! 
+Excited to share that I have completed my third project with hashtag#Psyliq, focusing on **HR Data Analysis** using Excel and Power BI! 
+
 Key Insights:
 Employee Demographics:
 Analyzed age distribution, gender ratio, and educational background to understand workforce diversity.
