@@ -40,7 +40,7 @@ A huge thank you to Psyliq for their invaluable support and guidance throughout 
 Feel free to reach out if you're interested in learning more about this project or if you have any questions about creating your data-driven dashboards!
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_excel-dataanalysis-kpidashboard-activity-7207832423022133249-PGsz?utm_source=share&utm_medium=member_desktop
 
- excited to share that I have completed my third project with hashtag#Psyliq, focusing on HR Data Analysis using Excel and Power BI! 
+Excited to share that I have completed my third project with hashtag#Psyliq, focusing on HR Data Analysis using Excel and Power BI! 
 Key Insights:
 Employee Demographics:
 Analyzed age distribution, gender ratio, and educational background to understand workforce diversity.
